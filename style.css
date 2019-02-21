@@ -1,0 +1,26 @@
+h1 {
+	color: #ff4d4d;
+}
+/*selecting a class*/
+
+.aquatext {
+	color: aqua;
+}
+
+/*selecting an id*/
+#purpletext {
+	color: purple;
+	font-family: cursive;
+}
+
+#yellowbgd {
+	background-color: yellow;
+}
+
+div {
+	background-color: blue;
+}
+
+span{
+	background-color: red;
+}
